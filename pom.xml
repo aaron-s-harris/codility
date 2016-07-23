@@ -36,4 +36,9 @@
       </plugin>
     </plugins>
   </build>
+
+  <modules>
+    <module>codility-java-lessons</module>
+  </modules>
+
 </project>
